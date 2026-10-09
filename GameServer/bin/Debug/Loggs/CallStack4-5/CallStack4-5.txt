@@ -1,0 +1,9 @@
+[CallStack]~†ankeiR0 lost 1000 he have 9364
+[CallStack]TiaDaCaça get 215 he have 0
+[CallStack]TiaDaCaça get 215 he have 206
+[CallStack]TiaDaCaça get 215 he have 421
+[CallStack]TiaDaCaça get 215 he have 636
+[CallStack]TiaDaCaça get 215 he have 848
+[CallStack]beta get 10000 he have 8871
+[CallStack]Bjorn get 5000 he have 0
+[CallStack]~†ankeiR0 get 3000 he have 8360

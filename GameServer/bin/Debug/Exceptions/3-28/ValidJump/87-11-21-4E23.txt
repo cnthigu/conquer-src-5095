@@ -1,0 +1,10 @@
+----Exception message----
+Index was outside the bounds of the array.
+----End of exception message----
+
+----Stack trace----
+   at COServer.Game.MsgTournaments.MsgGuildWar.ValidJump(Int32 Current, Int32& New, UInt16 X, UInt16 Y)
+   at COServer.Game.MsgServer.MsgDataPacket.PlayerJump(GameClient client, Packet msg, ActionQuery* data)
+   at COServer.Game.MsgServer.MsgDataPacket.Process(GameClient user, Packet stream)
+----End of stack trace----
+

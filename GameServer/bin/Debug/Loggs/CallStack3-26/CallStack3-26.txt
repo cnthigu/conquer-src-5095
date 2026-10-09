@@ -1,0 +1,3 @@
+[CallStack]#52NeSsA#52 get 500 he have 320
+[CallStack]BeyBlade get 215 he have 0
+[CallStack]BeyBlade get 215 he have 215

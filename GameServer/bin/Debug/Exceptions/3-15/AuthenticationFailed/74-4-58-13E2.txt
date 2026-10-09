@@ -1,0 +1,21 @@
+----Exception message----
+Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+----End of exception message----
+
+----Stack trace----
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool..ctor(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPoolManager.GetPool(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at COServer.Database.MySqlReader..ctor(MySqlCommand command)
+   at COServer.ProjectControl.ServerControl()
+   at COServer.Database.Server.Initialize()
+   at COServer.Program.Main(String[] args)
+----End of stack trace----
+

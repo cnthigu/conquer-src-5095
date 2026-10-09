@@ -1,0 +1,10 @@
+----Exception message----
+The given key was not present in the dictionary.
+----End of exception message----
+
+----Stack trace----
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at COServer.Game.MsgMonster.BossesBase.BossesTimer()
+   at COServer.Game.MsgTournaments.MsgSchedules.CheckUp(Time32 clock)
+----End of stack trace----
+

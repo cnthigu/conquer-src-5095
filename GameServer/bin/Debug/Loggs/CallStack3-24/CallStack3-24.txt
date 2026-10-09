@@ -1,0 +1,10 @@
+[CallStack]#52NeSsA#52 get 2150 he have 0
+[CallStack]#52NeSsA#52 lost 980 he have 2150
+[CallStack]#52NeSsA#52 get 2150 he have 1170
+[CallStack]#52NeSsA#52 lost 3000 he have 3320
+[CallStack]Robinho get 215 he have 37
+[CallStack]Robinho get 215 he have 252
+[CallStack]Robinho get 215 he have 467
+[CallStack]Robinho get 215 he have 682
+[CallStack]Robinho get 215 he have 897
+[CallStack]Robinho lost 1000 he have 1112

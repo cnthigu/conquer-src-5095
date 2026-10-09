@@ -1,0 +1,17 @@
+[CallStack]MulherDePau get 2150 he have 92
+[CallStack]KATANA get 215 he have 0
+[CallStack]KATANA get 215 he have 215
+[CallStack]KATANA get 215 he have 430
+[CallStack]KATANA get 215 he have 645
+[CallStack]KATANA get 215 he have 860
+[CallStack]MulherDePau lost 1000 he have 2242
+[CallStack]OrzZ[PM] lost 1000 he have 3000
+[CallStack]KATANA lost 1000 he have 1075
+[CallStack]Sephiroth[PM] lost 1000 he have 9986
+[CallStack]Sephiroth[PM] lost 1000 he have 8985
+[CallStack]PeGaTuDo get 215 he have 15
+[CallStack]PeGaTuDo get 215 he have 230
+[CallStack]PeGaTuDo get 215 he have 445
+[CallStack]PeGaTuDo get 215 he have 660
+[CallStack]PeGaTuDo get 215 he have 875
+[CallStack]PeGaTuDo lost 1000 he have 1090

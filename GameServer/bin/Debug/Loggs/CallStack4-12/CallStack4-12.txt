@@ -1,0 +1,8 @@
+[CallStack]bibizinha lost 675 he have 1000
+[CallStack]beta lost 675 he have 16619
+[CallStack]beta lost 675 he have 15944
+[CallStack]beta lost 250 he have 15269
+[CallStack]TiaDaCaça get 215 he have 53
+[CallStack]TiaDaCaça get 215 he have 268
+[CallStack]beta get 10000 he have 15019
+[CallStack]Bjorn get 5000 he have 2848

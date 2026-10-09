@@ -1,0 +1,8 @@
+[CallStack]ASTOFO get 215 he have 0
+[CallStack]ASTOFO lost 215 he have 215
+[CallStack]ASTOFO get 215 he have 0
+[CallStack]ASTOFO get 215 he have 215
+[CallStack]ASTOFO get 215 he have 430
+[CallStack]ASTOFO lost 215 he have 645
+[CallStack]ASTOFO lost 215 he have 430
+[CallStack]ASTOFO lost 215 he have 215

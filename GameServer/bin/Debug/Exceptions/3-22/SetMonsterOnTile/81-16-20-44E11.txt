@@ -1,0 +1,8 @@
+----Exception message----
+Index was outside the bounds of the array.
+----End of exception message----
+
+----Stack trace----
+   at COServer.Role.GameMap.SetMonsterOnTile(UInt16 X, UInt16 Y, Boolean Value)
+----End of stack trace----
+

@@ -1,0 +1,18 @@
+----Exception message----
+Too many connections
+----End of exception message----
+
+----Stack trace----
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool..ctor(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPoolManager.GetPool(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at COServer.Database.MySqlReader..ctor(MySqlCommand command)
+   at COServer.ProjectControl.ServerControl()
+   at COServer.Database.Server.Initialize()
+   at COServer.Program.Main(String[] args)
+----End of stack trace----
+

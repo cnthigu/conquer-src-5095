@@ -1,0 +1,5 @@
+[CallStack]Bjorn lost 2790 he have 2790
+[CallStack]beta get 2790 he have 6086
+[CallStack]bibizinha get 215 he have 0
+[CallStack]bibizinha get 215 he have 215
+[CallStack]bibizinha lost 215 he have 430

@@ -1,0 +1,13 @@
+----Exception message----
+Collection was modified; enumeration operation may not execute.
+----End of exception message----
+
+----Stack trace----
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source)
+   at COServer.Game.MsgServer.MsgDataPacket.PlayerJump(GameClient client, Packet msg, ActionQuery* data)
+   at COServer.Game.MsgServer.MsgDataPacket.Process(GameClient user, Packet stream)
+----End of stack trace----
+
